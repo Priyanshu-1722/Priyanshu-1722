@@ -79,7 +79,13 @@
 🔗 [GitHub Repo](https://github.com/Priyanshu-1722/Web-Server-Performance-Monitoring-using-ELK-Stack)
 
 ---
+## 📄 Résumé
 
+You can download my updated résumé here:
+
+👉 [Click to Download (PDF)](https://github.com/Priyanshu-1722/Priyanshu-1722/blob/main/DITISSRESUME.pdf)
+
+---
 ## 📫 Contact
 - 📧 **Email:** priyanshukmar2003@gmail.com
 - 📞 **Phone:** +91-7588072548
