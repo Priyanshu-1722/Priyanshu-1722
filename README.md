@@ -1,58 +1,91 @@
-<h1 align="center">👋 Hi, I'm Priyanshu Kumar</h1>
+# 💼 Priyanshu Kumar — DevSecOps Engineer | Cloud | Cybersecurity
 
-<p align="center">
-  🚀 DevSecOps | 🛡️ Cybersecurity | ☁️ Cloud-Native | 🐧 Linux Enthusiast <br>
-  📍 PG-DITISS | CDAC Pune | Class of 2025
-</p>
-
----
-
-## 🧠 About Me
-
-🎓 I’m currently pursuing my **Post Graduate Diploma in IT Infrastructure, Systems & Security (PG-DITISS)** from CDAC Pune.  
-🔧 I specialize in **DevOps automation**, **cloud-native deployments**, and **cybersecurity simulations**.  
-💡 I thrive in bridging infrastructure with security using modern tools like Kubernetes, Jenkins, Terraform, and Snort IDS.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/priyanshukumar10)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github&style=flat-square)](https://github.com/Priyanshu-1722)
+[![Visitors](https://komarev.com/ghpvc/?username=Priyanshu-1722&label=Profile+Views&color=blue&style=flat-square)](https://github.com/Priyanshu-1722)
 
 ---
 
-## 🛠️ Skills & Tech Stack
+🚀 Aspiring DevSecOps Engineer with a passion for building secure and scalable infrastructure. Currently pursuing PG-DITISS (CDAC Pune), I specialize in:
 
-- **Languages:** Python, SQL, Bash  
-- **Dev Tools:** Git, Docker, Jenkins, Ansible, Terraform, Postman  
-- **Cloud/DevOps:** AWS, GitHub Actions, CI/CD, Docker Swarm, MinIO, RabbitMQ  
-- **Security:** Snort, Suricata, Burp Suite, Wireshark, Metasploit, SIEM, pfSense  
-- **Platforms:** Linux (Kali, Ubuntu), Windows Server  
-- **Networking:** TCP/IP, VLANs, Subnetting, OSPF, DNS, DHCP, Firewalls
+- 🔐 **Cybersecurity** (Snort, ELK Stack, pfSense, SIEM)
+- ⚙️ **DevOps Tools** (Kubernetes, Jenkins, Docker, GitHub Actions)
+- ☁️ **Cloud & Automation** (AWS, Terraform, Ansible)
+- 👨‍💻 **Programming** (Python, Bash, SQL)
 
 ---
 
-## 📂 Featured Projects
+## 🔧 Featured Projects
 
-### 🔴 RedOpsAI vs 🔵 BlueShield  
-🧠 AI-Driven Cybersecurity Simulation Framework  
-Tech: Python, Snort, ELK Stack, pfSense, Zero Trust  
-🔗 [View Repository](https://github.com/Priyanshu-1722/RedOpsAI-vs-BlueShield-AI-Driven-Cybersecurity-Simulation-Framework)
+### 🔴 RedOpsAI vs BlueShield — AI-Driven Cybersecurity Simulation
+**Platform:** AI & Cybersecurity • **Duration:** 6 Months  
+**Description:** AI-powered Red Team vs Blue Team framework with Snort, pfSense, ELK, and custom AI-based attack automation. Integrated SIEM with feedback loops to enhance detection accuracy.
 
-### ⚙️ Full-Stack Kubernetes App with CI/CD  
-☁️ Autoscaling with KEDA | Messaging via RabbitMQ | CI/CD via GitHub Actions  
-Tech: Vue.js, FastAPI, Kubernetes, Velero, Prometheus/Grafana  
-🔗 [View Repository](https://github.com/Priyanshu-1722/K8s-app-with-KEDA-autoscaling-RabbitMQ-Velero-backups-GitHub-Actions-CI-CD-pipeline.)
+**Tech Stack:** Python, Snort IDS, ELK Stack, pfSense, Zero Trust Architecture, VMware/Kali, Custom AI Models  
+🔗 [GitHub Repo](https://github.com/Priyanshu-1722/RedOpsAI-vs-BlueShield-AI-Driven-Cybersecurity-Simulation-Framework)
 
 ---
 
-## 🏅 Certifications
+### 📦 Full-Stack Kubernetes App with KEDA, RabbitMQ, Velero
+**Platform:** Kubernetes / Cloud-Native • **Duration:** 3 Months  
+**Description:** Designed a microservice app with Vue.js, FastAPI, RabbitMQ, CI/CD via GitHub Actions, and autoscaling using KEDA. Included Prometheus/Grafana dashboards and secure Helm-based deployments.
 
-- ✅ Cloud Computing – NPTEL  
-- ✅ Data Mining – NPTEL
-
----
-
-## 📫 Connect with Me
-
-- 📧 Email: [priyanshukmar2003@gmail.com](mailto:priyanshukmar2003@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/priyanshukumar10](https://linkedin.com/in/priyanshukumar10)  
-- 💻 GitHub: [github.com/Priyanshu-1722](https://github.com/Priyanshu-1722)
+**Tech Stack:** Vue.js, FastAPI, RabbitMQ, KEDA, Kubernetes, Velero, GitHub Actions, Docker, Prometheus, Grafana  
+🔗 [GitHub Repo](https://github.com/Priyanshu-1722/K8s-app-with-KEDA-autoscaling-RabbitMQ-Velero-backups-GitHub-Actions-CI-CD-pipeline.)
 
 ---
 
-<p align="center">✨ Let’s build secure and scalable systems together!</p>
+### 🔒 Secure CI/CD + GitOps Pipeline with Argo CD
+**Platform:** DevSecOps / Kubernetes • **Duration:** 3 Months  
+**Description:** End-to-end secure pipeline using Jenkins, GitHub Actions, SonarQube, Trivy, Syft, and Argo CD with Kubernetes deployments.
+
+**Tech Stack:** Jenkins, GitHub Actions, SonarQube, Trivy, Syft, Argo CD, Kubernetes, Docker, Bandit, OWASP, SBOM  
+🔗 [GitHub Repo](https://github.com/Priyanshu-1722/Secure-CI-CD-GitOps-Pipeline-with-Jenkins-SonarQube-Trivy-Syft-and-Argo-CD-)
+
+---
+
+### 🎯 Secure CI/CD Pipeline on Kubernetes
+**Platform:** DevSecOps / Kubernetes • **Duration:** 3 Months  
+**Description:** Role-based CI/CD with Jenkins, GitHub Actions, RBAC, Trivy, Helm, and hardened cluster deployments.
+
+**Tech Stack:** Jenkins, GitHub Actions, Docker, Helm, RBAC, Clair, YAML, Groovy  
+🔗 [GitHub Repo](https://github.com/Priyanshu-1722/secure-cicd-k8s)
+
+---
+
+### 🏢 CDAC Enterprise Network Deployment
+**Platform:** Windows Server 2025 • **Duration:** 2 Months  
+**Description:** Simulated an enterprise IT infra lab with DHCP, WDS, FSRM, AD DS, Exchange Server, VPN, NLB, GPOs, and IIS on VirtualBox.
+
+**Tech Stack:** Windows Server 2025, DHCP, AD DS, FTP, WDS, FSRM, Exchange, VPN  
+🔗 [GitHub Repo](https://github.com/Priyanshu-1722/CDAC-Enterprise-Network-Deployment)
+
+---
+
+### 🗳️ Decentralized Voting System on Ethereum
+**Platform:** Blockchain / Ethereum • **Duration:** 3 Months  
+**Description:** Built an anonymous, tamper-proof voting platform using Solidity smart contracts, FastAPI backend, Metamask, and JWT auth.
+
+**Tech Stack:** Solidity, Truffle, FastAPI, JWT, MySQL, Vue.js, Metamask, Web3.js  
+🔗 [GitHub Repo](https://github.com/Priyanshu-1722/-Decentralized-Voting-System-Using-Blockchain)
+
+---
+
+### 📊 Apache Web Server Monitoring with ELK Stack
+**Platform:** Debian Linux • **Duration:** 2 Weeks  
+**Description:** Real-time Apache2 log analytics using Filebeat, Logstash, and Kibana dashboards with Grok patterns.
+
+**Tech Stack:** Apache2, Filebeat, Logstash, Elasticsearch, Kibana, Debian Linux  
+🔗 [GitHub Repo](https://github.com/Priyanshu-1722/Web-Server-Performance-Monitoring-using-ELK-Stack)
+
+---
+
+## 📫 Contact
+- 📧 **Email:** priyanshukmar2003@gmail.com
+- 📞 **Phone:** +91-7588072548
+- 🌐 **Portfolio Site:** (Coming Soon)
+
+---
+
+---
+
