@@ -17,72 +17,83 @@
 
 ## 🔧 Featured Projects
 
-### 🔴 RedOpsAI vs BlueShield — AI-Driven Cybersecurity Simulation
-**Platform:** AI & Cybersecurity • **Duration:** 6 Months  
-**Description:** AI-powered Red Team vs Blue Team framework with Snort, pfSense, ELK, and custom AI-based attack automation. Integrated SIEM with feedback loops to enhance detection accuracy.
+---
 
-**Tech Stack:** Python, Snort IDS, ELK Stack, pfSense, Zero Trust Architecture, VMware/Kali, Custom AI Models  
+### 🔴 **RedOpsAI vs BlueShield**
+
+🧠 **Description**
+AI-powered Red Team vs Blue Team simulation framework with automated intrusion, Snort-based detection, Zero Trust firewalling, and real-time ELK Stack analysis. Simulates realistic adversarial scenarios with feedback-based SIEM learning.
+
+🏷️ **Tags:** `cybersecurity` `red-team` `blue-team` `siem` `snort` `elk-stack` `zero-trust` `ai-cyber-simulation`
 🔗 [GitHub Repo](https://github.com/Priyanshu-1722/RedOpsAI-vs-BlueShield-AI-Driven-Cybersecurity-Simulation-Framework)
 
 ---
 
-### 📦 Full-Stack Kubernetes App with KEDA, RabbitMQ, Velero
-**Platform:** Kubernetes / Cloud-Native • **Duration:** 3 Months  
-**Description:** Designed a microservice app with Vue.js, FastAPI, RabbitMQ, CI/CD via GitHub Actions, and autoscaling using KEDA. Included Prometheus/Grafana dashboards and secure Helm-based deployments.
+### 📦 **Kubernetes App with KEDA + RabbitMQ + Velero**
 
-**Tech Stack:** Vue.js, FastAPI, RabbitMQ, KEDA, Kubernetes, Velero, GitHub Actions, Docker, Prometheus, Grafana  
+🧠 **Description**
+Full-stack microservice app on Kubernetes featuring autoscaling with KEDA, messaging with RabbitMQ, CI/CD via GitHub Actions, and backups using Velero. Integrated Prometheus/Grafana for real-time observability and security via RBAC and secrets.
+
+🏷️ **Tags:** `kubernetes` `keda` `rabbitmq` `velero` `github-actions` `ci-cd` `cloud-native` `prometheus` `grafana`
 🔗 [GitHub Repo](https://github.com/Priyanshu-1722/K8s-app-with-KEDA-autoscaling-RabbitMQ-Velero-backups-GitHub-Actions-CI-CD-pipeline.)
 
 ---
 
-### 🔒 Secure CI/CD + GitOps Pipeline with Argo CD
-**Platform:** DevSecOps / Kubernetes • **Duration:** 3 Months  
-**Description:** End-to-end secure pipeline using Jenkins, GitHub Actions, SonarQube, Trivy, Syft, and Argo CD with Kubernetes deployments.
+### 🔐 **Secure CI/CD + GitOps Pipeline**
 
-**Tech Stack:** Jenkins, GitHub Actions, SonarQube, Trivy, Syft, Argo CD, Kubernetes, Docker, Bandit, OWASP, SBOM  
+🧠 **Description**
+Advanced DevSecOps pipeline using Jenkins, GitHub Actions, SonarQube, SBOM (Syft), Trivy, and Argo CD for secure Kubernetes deployments. Includes full audit, scanning, GitOps sync, and compliance visualization.
+
+🏷️ **Tags:** `devsecops` `jenkins` `trivy` `argo-cd` `sbom` `gitops` `kubernetes` `pipeline-security`
 🔗 [GitHub Repo](https://github.com/Priyanshu-1722/Secure-CI-CD-GitOps-Pipeline-with-Jenkins-SonarQube-Trivy-Syft-and-Argo-CD-)
 
 ---
 
-### 🎯 Secure CI/CD Pipeline on Kubernetes
-**Platform:** DevSecOps / Kubernetes • **Duration:** 3 Months  
-**Description:** Role-based CI/CD with Jenkins, GitHub Actions, RBAC, Trivy, Helm, and hardened cluster deployments.
+### 🛡️ **Secure CI/CD with Helm + RBAC**
 
-**Tech Stack:** Jenkins, GitHub Actions, Docker, Helm, RBAC, Clair, YAML, Groovy  
+🧠 **Description**
+Pipeline for secure app delivery on Kubernetes using Jenkins, Helm charts, GitHub Actions, RBAC, and image scanning. Includes multi-stage deployment with isolation and secrets management.
+
+🏷️ **Tags:** `ci-cd` `helm` `jenkins` `rbac` `security` `image-scanning` `groovy`
 🔗 [GitHub Repo](https://github.com/Priyanshu-1722/secure-cicd-k8s)
 
 ---
 
-### 🏢 CDAC Enterprise Network Deployment
-**Platform:** Windows Server 2025 • **Duration:** 2 Months  
-**Description:** Simulated an enterprise IT infra lab with DHCP, WDS, FSRM, AD DS, Exchange Server, VPN, NLB, GPOs, and IIS on VirtualBox.
+### 🏢 **Enterprise Network Simulation (CDAC)**
 
-**Tech Stack:** Windows Server 2025, DHCP, AD DS, FTP, WDS, FSRM, Exchange, VPN  
+🧠 **Description**
+Simulated enterprise-grade IT infrastructure on VirtualBox with Windows Server 2025. Configured AD DS, WDS, DHCP, VPN, Exchange Server, FSRM, IIS, and GPOs for real-world enterprise deployment.
+
+🏷️ **Tags:** `windows-server` `active-directory` `virtualbox` `enterprise-network` `group-policy` `wds` `exchange-server`
 🔗 [GitHub Repo](https://github.com/Priyanshu-1722/CDAC-Enterprise-Network-Deployment)
 
 ---
 
-### 🗳️ Decentralized Voting System on Ethereum
-**Platform:** Blockchain / Ethereum • **Duration:** 3 Months  
-**Description:** Built an anonymous, tamper-proof voting platform using Solidity smart contracts, FastAPI backend, Metamask, and JWT auth.
+### 🗳️ **Decentralized Voting System (Blockchain)**
 
-**Tech Stack:** Solidity, Truffle, FastAPI, JWT, MySQL, Vue.js, Metamask, Web3.js  
+🧠 **Description**
+Blockchain-based voting app using Solidity, FastAPI backend, Vue.js frontend, and Metamask wallet. Features smart contracts, voter auth, and real-time results with full Web3 stack.
+
+🏷️ **Tags:** `blockchain` `ethereum` `voting-system` `web3` `fastapi` `vue` `solidity` `metamask`
 🔗 [GitHub Repo](https://github.com/Priyanshu-1722/-Decentralized-Voting-System-Using-Blockchain)
 
 ---
 
-### 📊 Apache Web Server Monitoring with ELK Stack
-**Platform:** Debian Linux • **Duration:** 2 Weeks  
-**Description:** Real-time Apache2 log analytics using Filebeat, Logstash, and Kibana dashboards with Grok patterns.
+### 📊 **Apache Monitoring with ELK**
 
-**Tech Stack:** Apache2, Filebeat, Logstash, Elasticsearch, Kibana, Debian Linux  
+🧠 **Description**
+Real-time web server monitoring using Filebeat, Logstash, and Kibana with custom access logs and visual dashboards. Used for identifying bottlenecks and response time trends.
+
+🏷️ **Tags:** `elk-stack` `log-analysis` `apache` `filebeat` `logstash` `kibana` `monitoring`
 🔗 [GitHub Repo](https://github.com/Priyanshu-1722/Web-Server-Performance-Monitoring-using-ELK-Stack)
+
+---
 
 ---
 ## 📄 Resume
 
-Looking to learn more about my background, skills, and experience?
-Feel free to download my latest résumé below:
+Looking to learn more about my background, skills, and experience? 
+Feel free to download my latest resume below:
 
 👉 [Click to Download (PDF)](https://github.com/Priyanshu-1722/Priyanshu-1722/blob/master/DITISSRESUME.pdf)
 
