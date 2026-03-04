@@ -6,12 +6,7 @@
 
 ---
 
-🚀 Aspiring DevSecOps Engineer with a passion for building secure and scalable infrastructure. Currently pursuing PG-DITISS (CDAC Pune), I specialize in:
-
-- 🔐 **Cybersecurity** (Snort, ELK Stack, pfSense, SIEM)
-- ⚙️ **DevOps Tools** (Kubernetes, Jenkins, Docker, GitHub Actions)
-- ☁️ **Cloud & Automation** (AWS, Terraform, Ansible)
-- 👨‍💻 **Programming** (Python, Bash, SQL)
+🚀SOC Analyst with hands-on experience in threat detection, security monitoring, and incident investigation using SIEM tools. Experienced in analyzing security alerts, investigating suspicious activity, and strengthening enterprise security posture. Background in DevSecOps, cloud security, and infrastructure monitoring.
 
 ---
 
