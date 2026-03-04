@@ -1,4 +1,4 @@
-# 💼 Priyanshu Kumar — DevSecOps Engineer | Cloud | Cybersecurity
+# 💼 Priyanshu Kumar — SOC Analyst | Blue Team | SIEM | Threat Detection & Incident Response | Cybersecurity
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/priyanshukumar10)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github&style=flat-square)](https://github.com/Priyanshu-1722)
