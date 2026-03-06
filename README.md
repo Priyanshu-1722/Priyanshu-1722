@@ -1,34 +1,34 @@
 # 🛡️ Priyanshu Kumar — SOC Analyst | Blue Team | SIEM | Threat Detection & Incident Response
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/priyanshukumar10)
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github&style=flat-square)](https://github.com/Priyanshu-1722)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&style=flat-square)](https://linkedin.com/in/priyanshukumar10)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github\&style=flat-square)](https://github.com/Priyanshu-1722)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square)](https://priyanshu-1722.github.io/)
-[![Visitors](https://komarev.com/ghpvc/?username=Priyanshu-1722&label=Profile+Views&color=blue&style=flat-square)](https://github.com/Priyanshu-1722)
+[![Visitors](https://komarev.com/ghpvc/?username=Priyanshu-1722\&label=Profile+Views\&color=blue\&style=flat-square)](https://github.com/Priyanshu-1722)
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 SOC Analyst with hands-on experience in **threat detection, security monitoring, and incident investigation using SIEM tools**.
 
 Experienced in:
 
-- 🔍 Investigating security alerts and suspicious activity
-- 🛡️ Incident response and threat detection
-- ☁️ Cloud security & DevSecOps
-- 📊 Security monitoring and log analysis
-- 🧠 Threat intelligence & MITRE ATT&CK
+* 🔍 Investigating security alerts and suspicious activity
+* 🛡️ Incident response and threat detection
+* ☁️ Cloud security & DevSecOps
+* 📊 Security monitoring and log analysis
+* 🧠 Threat intelligence & MITRE ATT&CK
 
 Strong background in **DevSecOps pipelines, Kubernetes security, and enterprise infrastructure monitoring**.
 
 ---
 
-## 📊 Security Metrics
+# 📊 Security Metrics
 
-- 🔐 **6+ Security Projects**
-- ⚙️ **4+ DevSecOps Pipelines**
-- 📡 **3+ SIEM Platforms**
-- 🚨 **100+ Security Alerts Analyzed**
+* 🔐 **6+ Security Projects**
+* ⚙️ **4+ DevSecOps Pipelines**
+* 📡 **3+ SIEM Platforms**
+* 🚨 **100+ Security Alerts Analyzed**
 
 ---
 
@@ -38,113 +38,100 @@ Strong background in **DevSecOps pipelines, Kubernetes security, and enterprise 
 
 ## 🔴 RedOpsAI vs BlueShield
 
-**AI-powered Red Team vs Blue Team simulation framework**
+AI-powered **Red Team vs Blue Team simulation framework**.
 
 Features:
 
-- Automated intrusion simulation
-- Snort-based detection
-- Zero Trust firewalling
-- ELK Stack real-time analysis
-- AI-driven attack simulation
+* Snort IDS detection
+* Zero Trust firewall simulation
+* AI attack simulation
+* ELK Stack monitoring
 
-**Tags**
-
-`cybersecurity` `red-team` `blue-team` `siem` `snort` `elk-stack` `zero-trust`
-
-🔗  
+🔗
 https://github.com/Priyanshu-1722/RedOpsAI-vs-BlueShield-AI-Driven-Cybersecurity-Simulation-Framework
 
 ---
 
 ## 📦 Kubernetes App with KEDA + RabbitMQ + Velero
 
-Full-stack microservice app deployed on **Kubernetes**.
+Full-stack **cloud-native Kubernetes application**.
 
 Features:
 
-- Autoscaling with **KEDA**
-- Messaging with **RabbitMQ**
-- CI/CD with **GitHub Actions**
-- Backup using **Velero**
-- Monitoring with **Prometheus & Grafana**
+* Autoscaling with **KEDA**
+* Messaging with **RabbitMQ**
+* CI/CD using **GitHub Actions**
+* Backup using **Velero**
+* Monitoring with **Prometheus & Grafana**
 
-**Tags**
-
-`kubernetes` `keda` `rabbitmq` `velero` `github-actions` `ci-cd`
-
-🔗  
+🔗
 https://github.com/Priyanshu-1722/K8s-app-with-KEDA-autoscaling-RabbitMQ-Velero-backups-GitHub-Actions-CI-CD-pipeline.
 
 ---
 
 ## 🔐 Secure CI/CD + GitOps Pipeline
 
-Advanced **DevSecOps pipeline** with security automation.
+Advanced **DevSecOps pipeline** with automated security scanning.
 
-Tools used:
+Tools:
 
-- Jenkins
-- SonarQube
-- Trivy
-- Syft (SBOM)
-- Argo CD
+* Jenkins
+* SonarQube
+* Trivy
+* Syft (SBOM)
+* Argo CD
 
-Includes **secure Kubernetes deployment and vulnerability scanning**.
-
-🔗  
+🔗
 https://github.com/Priyanshu-1722/Secure-CI-CD-GitOps-Pipeline-with-Jenkins-SonarQube-Trivy-Syft-and-Argo-CD-
 
 ---
 
-## 🛡️ Secure CI/CD with Helm + RBAC
+## 🛡 Secure CI/CD with Helm + RBAC
 
-Secure Kubernetes delivery pipeline using:
+Secure Kubernetes deployment pipeline using:
 
-- Helm charts
-- Jenkins pipelines
-- GitHub Actions
-- RBAC security controls
-- Container image scanning
+* Helm charts
+* Jenkins pipelines
+* RBAC policies
+* Container image scanning
 
-🔗  
+🔗
 https://github.com/Priyanshu-1722/secure-cicd-k8s
 
 ---
 
 ## 🏢 Enterprise Network Simulation (CDAC)
 
-Simulated **enterprise-grade IT infrastructure**.
+Enterprise infrastructure simulation using **Windows Server 2025**.
 
 Configured:
 
-- Active Directory (AD DS)
-- DHCP
-- WDS
-- VPN
-- Exchange Server
-- FSRM
-- IIS
-- Group Policy
+* Active Directory
+* DHCP
+* VPN
+* Exchange Server
+* WDS
+* Group Policy
+* IIS
 
-🔗  
+🔗
 https://github.com/Priyanshu-1722/CDAC-Enterprise-Network-Deployment
 
 ---
 
-## 🗳️ Decentralized Voting System (Blockchain)
+## 🗳 Decentralized Voting System (Blockchain)
 
-Blockchain-based voting application.
+Blockchain-based voting platform.
 
-Tech stack:
+Tech Stack:
 
-- Solidity
-- FastAPI
-- Vue.js
-- Metamask
-- Ethereum smart contracts
+* Solidity
+* FastAPI
+* Vue.js
+* Metamask
+* Ethereum smart contracts
 
-🔗  
+🔗
 https://github.com/Priyanshu-1722/-Decentralized-Voting-System-Using-Blockchain
 
 ---
@@ -153,78 +140,112 @@ https://github.com/Priyanshu-1722/-Decentralized-Voting-System-Using-Blockchain
 
 Real-time web server monitoring using:
 
-- Filebeat
-- Logstash
-- Kibana
+* Filebeat
+* Logstash
+* Kibana
 
 Features:
 
-- Access log monitoring
-- Traffic anomaly detection
-- Dashboard visualization
+* Access log monitoring
+* Traffic anomaly detection
+* Dashboard visualization
 
-🔗  
+🔗
 https://github.com/Priyanshu-1722/Web-Server-Performance-Monitoring-using-ELK-Stack
 
 ---
 
 # 🛡 SOC Investigation Experience
 
-### 🔐 Brute Force Attack Detection
+## 🔐 Brute Force Attack Investigation
 
-Alert Source: **SIEM (Microsoft Sentinel)**
+Alert Source: **Microsoft Sentinel**
 
 Investigation:
 
-- Analyzed authentication logs
-- Correlated attacker IP with threat intelligence
-- Identified brute-force attack pattern
+* Analyzed Linux authentication logs
+* Identified brute-force login patterns
+* Correlated IP with threat intelligence
 
 Mitigation:
 
-- Blocked malicious IP
-- Enabled Fail2Ban
-- Hardened SSH configuration
+* Blocked attacker IP
+* Enabled Fail2Ban
+* Hardened SSH configuration
 
 ---
 
-### 📧 Phishing Email Investigation
+## 📧 Phishing Email Investigation
 
 Alert Source: **Microsoft Defender**
 
 Investigation:
 
-- Analyzed email headers
-- Checked sender reputation
-- Investigated malicious links
+* Analyzed email headers
+* Checked sender reputation
+* Inspected malicious URL
 
 Mitigation:
 
-- Blocked malicious domain
-- Added sender to Proofpoint block list
-- Reported incident to SOC team
+* Blocked malicious domain
+* Added domain to Proofpoint block list
+* Reported incident to SOC team
+
+---
+
+# 🛠 Security Tools
+
+### SIEM
+
+Microsoft Sentinel • Splunk • ELK Stack
+
+### Cloud & DevSecOps
+
+AWS • Kubernetes • Docker • Jenkins • GitHub Actions
+
+### Security Tools
+
+Snort • Trivy • SonarQube • Proofpoint
+
+### Monitoring
+
+Prometheus • Grafana • Kibana
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-1722\&show_icons=true\&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Priyanshu-1722\&theme=tokyonight)
+
+---
+
+# 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-1722\&layout=compact\&theme=tokyonight)
 
 ---
 
 # 📄 Resume
 
-Download my latest resume:
+Download my resume:
 
-👉  
-https://github.com/Priyanshu-1722/Priyanshu-1722/blob/master/DITISSRESUME.pdf
+👉 https://github.com/Priyanshu-1722/Priyanshu-1722/blob/master/DITISSRESUME.pdf
 
 ---
 
 # 📫 Contact
 
-📧 **Email**  
-priyanshukmar2003@gmail.com  
+📧 Email : [priyanshukmar2003@gmail.com](mailto:priyanshukmar2003@gmail.com)
 
-📞 **Phone**  
-+91-7588072548  
+📞 Phone : +91-7588072548
 
-🌐 **Portfolio**  
-https://priyanshu-1722.github.io/
+🌐 Portfolio : https://priyanshu-1722.github.io/
 
 ---
 
