@@ -213,21 +213,21 @@ Prometheus • Grafana • Kibana
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-1722\&show_icons=true\&theme=tokyonight)
-
----
-
-# 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Priyanshu-1722\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-1722&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
-# 💻 Top Languages
+## 🔥 GitHub Streak
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-1722\&layout=compact\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Priyanshu-1722&theme=tokyonight&hide_border=true)
+
+---
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-1722&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
